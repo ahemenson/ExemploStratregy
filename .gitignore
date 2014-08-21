@@ -1,4 +1,4 @@
-.settings
+*.settings
 bin/com/exemplo
-.classpath
-.project
+*.classpath
+*.project
